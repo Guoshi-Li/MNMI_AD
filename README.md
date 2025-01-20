@@ -2,7 +2,7 @@
 
 This GitHub repository holds the data and code that support the findings of the MNMI-AD study. The detailed method and major results can be found in the following report:
 
-•	Li G, Hsu LM, Wu Y, Bozoki AC, Shih YY, Yap PT. Excitation-inhibition imbalance in Alzheimer’s disease using multiscale neural model inversion of resting-state fMRI. MedRxiv, https://doi.org/10.1101/2022.10.04.22280681
+     * Li G, Hsu LM, Wu Y, Bozoki AC, Shih YI, Yap PT (2025) Revealing excitation-inhibition imbalance in Alzheimer's disease using multiscale neural model inversion of resting-state functional MRI. Commun Med (Lond). 5(1):17. doi: 10.1038/s43856-025-00736-7. PMID: 39814858; PMCID: PMC11735810.
 
 The “SUBJECT” folder stores the demographic and clinical information of participants.
 
